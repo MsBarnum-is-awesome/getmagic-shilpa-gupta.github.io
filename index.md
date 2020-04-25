@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Magic Project Test Webpage
 This is my first website
 
 [DONATE TO ST.JUDE TO MAKE A DIFFERENCE TODAY] (https://www.stjude.org/donate/donate-to-st-jude.html)
